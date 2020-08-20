@@ -13,8 +13,3 @@
 <img src="screen-shots/mobile-2.png">
 <img src="screen-shots/mobile-3.png">
 <img src="screen-shots/mobile-4.png">
-
-
-
-
-
